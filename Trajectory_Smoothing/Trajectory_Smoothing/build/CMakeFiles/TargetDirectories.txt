@@ -1,0 +1,3 @@
+/home/dashuaibi/Algorithm/Algorithm_implementation/Trajectory_Smoothing/build/CMakeFiles/osqp.dir
+/home/dashuaibi/Algorithm/Algorithm_implementation/Trajectory_Smoothing/build/CMakeFiles/edit_cache.dir
+/home/dashuaibi/Algorithm/Algorithm_implementation/Trajectory_Smoothing/build/CMakeFiles/rebuild_cache.dir

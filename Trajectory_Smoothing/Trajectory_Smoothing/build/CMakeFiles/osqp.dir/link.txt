@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/osqp.dir/src/main.cpp.o CMakeFiles/osqp.dir/src/QP.cpp.o -o osqp  -Wl,-rpath,/usr/local/lib /usr/lib/x86_64-linux-gnu/libpython3.10.so -losqp /usr/local/lib/libOsqpEigen.so.0.8.0 /usr/local/lib/libosqp.so 
