@@ -26,6 +26,5 @@ cmake .. && make
 ./osqp
 ```
 ## 效果
-说明：算法原理及如何调试请参考pdf文件
-![image](./Trajectory_Smoothing/result_image/平滑效果01.png)
-![image](./Trajectory_Smoothing/result_image/平滑效果02.png)
+![image](./Trajectory_Smoothing/result_image/平滑效果01.png)![image](./Trajectory_Smoothing/result_image/平滑效果02.png)
+
