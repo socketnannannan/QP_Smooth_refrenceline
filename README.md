@@ -15,6 +15,10 @@ pip3 install matplotlib
 git clone https://github.com/lava/matplotlib-cpp
 CMakeLists.txt里面需要添加python相关的依赖，具体参考我的CMakeLists.txt
 ```
+## 修改
+```shell
+QP.cpp中第7和20行修改待平滑点global_path_x和global_path_y的txt文档路径
+```
 ## 编译运行
 ```shell
 git clone https://github.com/socketnannannan/QP_Smooth_refrenceline.git
